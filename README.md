@@ -7,7 +7,7 @@ The only thing you should have to configure to get it working is to change the p
 
 This demo uses some code from various places around the web for presentation. Credit for any code used is commented in the code.
 
-Outside of that, this is a working demo that basically consists of the db file, one Web Form, and the web.config file. It doesn't get much simpler than this.
+Outside of that, this is a working demo that basically consists of the db file (and it's .dll file), one Web Form, and the web.config file. It doesn't get much simpler than this.
 
 
 
